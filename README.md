@@ -18,7 +18,6 @@
 </p>
 
 <p align="center">
-  <img src="" width="300 height="30 "/>
   
 </p>
 
