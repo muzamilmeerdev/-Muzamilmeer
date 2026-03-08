@@ -54,22 +54,22 @@
   <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Muzamilmeer&show_icons=true&theme=tokyonight&custom_title=Muzamil%20GitHub%20Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzamilmeer&theme=tokyonight&currStreakLabel=Muzamil" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muzamilmeerdev&show_icons=true&theme=tokyonight&custom_title=Muzamil%20GitHub%20Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzamilmeerdev&theme=tokyonight&currStreakLabel=Muzamil" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzamilmeer&layout=compact&theme=tokyonight&custom_title=Languages%20Used%20By%20Muzamil" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzamilmeerdev&layout=compact&theme=tokyonight&custom_title=Languages%20Used%20By%20Muzamil" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muzamilmeer&show_icons=true&theme=radical&border_radius=15&title_color=FF61D4&icon_color=FF61D4&text_color=FFFFFF&bg_color=0D1117&custom_title=Muzamil%20GitHub%20Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muzamilmeedev&show_icons=true&theme=radical&border_radius=15&title_color=FF61D4&icon_color=FF61D4&text_color=FFFFFF&bg_color=0D1117&custom_title=Muzamil%20GitHub%20Stats" width="400"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzamilmeer&theme=radical&ring=FF61D4&fire=FF61D4&currStreakLabel=Muzamil" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzamilmeerdev&theme=radical&ring=FF61D4&fire=FF61D4&currStreakLabel=Muzamil" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzamilmeer&layout=compact&theme=radical&bg_color=0D1117&title_color=FF61D4&text_color=FFFFFF&custom_title=Languages%20Used%20By%20Muzamil" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzamilmeedev&layout=compact&theme=radical&bg_color=0D1117&title_color=FF61D4&text_color=FFFFFF&custom_title=Languages%20Used%20By%20Muzamil" width="400"/>
 </p>
 
 <!-- Stylish GIF below -->
