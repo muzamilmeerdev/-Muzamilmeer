@@ -4,12 +4,12 @@
   <a href="https://wa.me/919103594759?text=i%20hire%20you" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-%20Hire%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="https://www.instagram.com/root.access.granted" target="_blank">
+  <a href="https://www.instagram.com/software_developer_bandipora" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
  
- 🌐 [**My Portfolio Website**] https://muzamilmeer.github.io/reactify-mir/
+ 🌐 [**My Portfolio Website**] https://muzamilmeerdev.github.io/SwiftKart/
  <h1 align="center">Hi 👋, I'm Muzamil Meer</h1>
 <h3 align="center">💻 aka Muzamil — Developer | Dreamer | Doer ✨</h3>
 
